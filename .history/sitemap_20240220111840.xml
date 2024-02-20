@@ -1,0 +1,5 @@
+<url>
+  <loc>{{ site.url }}/about.html</loc>
+  <lastmod>{{ site.time | date_to_xmlschema }}</lastmod>
+  <priority>0.7</priority>
+</url>
