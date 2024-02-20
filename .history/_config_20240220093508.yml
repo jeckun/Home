@@ -1,0 +1,14 @@
+title: Jeckun's Sharing
+description: Jeckun
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+destination: _site
+
+gems:
+  - jekyll-mentions
+
+collections:
+  authors:
+    output: true
